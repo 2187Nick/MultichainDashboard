@@ -52,7 +52,7 @@ Sign-up for your free Covalent Api Key:
 git clone https://github.com/chrontast/MultichainDashboard.git
 ```
 
-Install dependencies: Start frontend:
+Install dependencies:
 ```
 cd MultichainDashboard
 yarn install
