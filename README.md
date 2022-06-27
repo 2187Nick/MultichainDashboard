@@ -43,7 +43,7 @@ To view inidividual token historical balance value. Click the chart button under
 # 🏄‍♂️ Quick Start
 
 Sign-up for your free Covalent Api Key:
-[Api Sign-up](https://www.covalenthq.com/platform/#/auth/register/)
+[Covalent](https://www.covalenthq.com/platform/#/auth/register/)
 
 
 > Clone the repo:
