@@ -127,7 +127,7 @@ function Home({mainnetProvider}) {
   const validBinanceItemNumbers = [];
   const validAvalancheItemNumbers = [];
 
-  const api_key = "ckey_ed517e11bd2941a29ca59a270b6";
+  const api_key = "";
 
   const getDataBalances = async () => {
 
