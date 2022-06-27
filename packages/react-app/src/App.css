@@ -1,0 +1,39 @@
+.App {
+  /*text-align: center;
+  padding-left: calc(100vw - 100%); */
+}
+
+.card-img-overlay {
+  background-color: rgba(rgb(32, 17, 114), 0.4);
+}
+
+.card{
+  border: 1px solid #111;
+  margin: 10px 0;
+  padding: 20px;
+
+}
+
+
+.checkmark {
+  display: none;
+}
+.checkmark.draw:after {
+    animation-duration: 800ms;
+    animation-timing-function: ease;
+    animation-name: checkmark;
+    transform: scaleX(-1) rotate(135deg);
+}
+  
+.checkmark.draw:after {
+    opacity: 1;
+    height: check-height;
+    width: check-width;
+    transform-origin: left top;
+    border-right: check-thickness solid check-color;
+    border-top: check-thickness solid check-color;
+    content: '';
+    left: check-left;
+    top: check-height;
+    position: absolute;
+}
