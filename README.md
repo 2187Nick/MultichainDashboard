@@ -37,7 +37,7 @@ To view inidividual token historical balance value. Click the chart button under
 
 [Demo App Site](https://multichain.surge.sh)
 
-[Video Demo](https://youtube.com)
+[Video Demo](https://youtu.be/-QlbXAvapho)
 
 
 # 🏄‍♂️ Quick Start
@@ -52,14 +52,19 @@ Sign-up for your free Covalent Api Key:
 git clone https://github.com/chrontast/MultichainDashboard.git
 ```
 
-Install dependencies and Start frontend:
+Install dependencies: Start frontend:
 ```
 cd MultichainDashboard
 yarn install
+```
+💼 Add your Api Key in `packages/src/views/home` line 130.
+
+Start frontend:
+```
 yarn start
 ```
 
 📱 Open http://localhost:3000 to see the app
 
-## Contact [Twitter](https://www.twitter.com/chrontast).
+## Contact [twitter](https://www.twitter.com/chrontast).
 
