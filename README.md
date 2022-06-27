@@ -35,9 +35,9 @@ To view inidividual token historical balance value. Click the chart button under
 
 # Usage
 
-Demo App Site
+[Demo App Site](https://multichain.surge.sh)
 
-Video Demo
+[Video Demo](https://youtube.com)
 
 
 # 🏄‍♂️ Quick Start
@@ -60,5 +60,5 @@ yarn start
 
 📱 Open http://localhost:3000 to see the app
 
-## Contact   https://www.twitter.com/chrontast
+## Contact [Twitter](https://pages.github.com/](https://www.twitter.com/chrontast).
 
