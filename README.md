@@ -1,4 +1,17 @@
-# MultiChain_Dashboard
+# MultiChain Dashboard
+![multichain1](https://user-images.githubusercontent.com/75052782/176007142-7c2a9d8b-25a4-477c-8a49-547b519091ea.png)
+
+Combine Covalent data with Scaffold-Eth developer stack and TradingView charts
+
+![multichain2](https://user-images.githubusercontent.com/75052782/176007870-c00e6a54-a82b-4af7-993b-77853d278826.png)
+
+Created for the 14th Hackthon of Gitcoin. Hackathon: Grants Round 14 Hackathon
+
+
+with Scaffold-Eth
+
+> install and star
+
 =======
 # 🏗 Scaffold-ETH
 
@@ -6,39 +19,20 @@
 
 # 🏄‍♂️ Quick Start
 
-> clone/fork 🏗 scaffold-eth:
+> clone/fork:
 
 ```bash
-git clone https://github.com/scaffold-eth/scaffold-eth.git
+git clone https://github.com/chrontast/MultichainDashboard.git
 ```
 
-> install and start your 👷‍ Hardhat chain:
 
-```bash
-cd scaffold-eth
+cd MultichainDashboard
 yarn install
-yarn chain
-```
-
-> in a second terminal window, start your 📱 frontend:
-
-```bash
-cd scaffold-eth
 yarn start
-```
 
-> in a third terminal window, 🛰 deploy your contract:
 
-```bash
-cd scaffold-eth
-yarn deploy
-```
 
-🔏 Edit your smart contract `YourContract.sol` in `packages/hardhat/contracts`
-
-📝 Edit your frontend `App.jsx` in `packages/react-app/src`
-
-💼 Edit your deployment scripts in `packages/hardhat/deploy`
+📝 Edit your frontend `Home.jsx` in `packages/react-app/src/views`
 
 📱 Open http://localhost:3000 to see the app
 
