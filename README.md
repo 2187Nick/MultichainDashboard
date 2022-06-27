@@ -35,7 +35,6 @@ To view inidividual token historical balance value. Click the chart button under
 
 
 
-> Install and Start
 
 # 🏄‍♂️ Quick Start
 
@@ -57,5 +56,5 @@ yarn start
 
 📱 Open http://localhost:3000 to see the app
 
-## Contact   Twitter: @chrontast
+## Contact   twitter.com/chrontast
 
