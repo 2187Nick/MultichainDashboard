@@ -33,7 +33,9 @@ To view inidividual token historical balance value. Click the chart button under
 ![mulitchainIndivid](https://user-images.githubusercontent.com/75052782/176013887-a9bb4d09-503a-4810-8962-3533f9cff91c.png)
 
 
-
+Usage
+Demo App Site
+Video Demo
 
 
 # 🏄‍♂️ Quick Start
@@ -56,5 +58,5 @@ yarn start
 
 📱 Open http://localhost:3000 to see the app
 
-## Contact   twitter.com/chrontast
+## Contact   https://www.twitter.com/chrontast
 
